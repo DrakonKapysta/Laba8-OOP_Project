@@ -1,0 +1,8 @@
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.vcxprojAssemblyReference.cache
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.MyForm.resources
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.vcxproj.GenerateResource.cache
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.authorization.resources
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.customerForm.resources
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.admin.resources
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.Register.resources
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Debug\ProjectOop.HelpForm.resources

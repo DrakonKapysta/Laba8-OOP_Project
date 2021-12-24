@@ -1,0 +1,245 @@
+﻿  MyForm.cpp
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\admin.h(353,20): warning C4101: 's': unreferenced local variable
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(24): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetWorkType(T1)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::SetWorkType'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetDays(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::SetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 &Customer<T1,int,int>::GetTypeOfWork(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetTypeOfWork'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::~VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(13): message : see declaration of 'VipCustomer<std::string,int,int>::~VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(15): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(14): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'void VipCustomer<std::string,int,int>::Discount(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(16): message : see declaration of 'VipCustomer<std::string,int,int>::Discount'
+  admin.cpp
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\admin.h(353,20): warning C4101: 's': unreferenced local variable
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(24): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetWorkType(T1)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::SetWorkType'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetDays(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::SetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 &Customer<T1,int,int>::GetTypeOfWork(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetTypeOfWork'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::~VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(13): message : see declaration of 'VipCustomer<std::string,int,int>::~VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(15): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(14): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'void VipCustomer<std::string,int,int>::Discount(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(16): message : see declaration of 'VipCustomer<std::string,int,int>::Discount'
+  authorization.cpp
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\admin.h(353,20): warning C4101: 's': unreferenced local variable
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(24): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetWorkType(T1)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::SetWorkType'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetDays(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::SetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 &Customer<T1,int,int>::GetTypeOfWork(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetTypeOfWork'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(33): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::~VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(13): message : see declaration of 'VipCustomer<std::string,int,int>::~VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(15): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(14): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(20): warning C4661: 'void VipCustomer<std::string,int,int>::Discount(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\VipCustomer.h(16): message : see declaration of 'VipCustomer<std::string,int,int>::Discount'
+  Generating Code...
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\authorization.h(166): warning C4715: 'ProjectOop::authorization::readRegFile': not all control paths return a value
+C:\Users\matyi\source\repos\ProjectOop\ProjectOop\authorization.h(166): warning C4715: 'ProjectOop::authorization::readRegFile': not all control paths return a value
+  admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectOop.vcxproj -> C:\Users\matyi\source\repos\ProjectOop\Debug\ProjectOop.exe
